@@ -1,0 +1,8 @@
+/* styles.css */
+.user-question {
+  background-color: #fff; /* Use the desired background color for user questions */
+}
+
+.assistant-answer {
+  background-color: #d8d8d8; /* Use the desired background color for chatbot answers */
+}
